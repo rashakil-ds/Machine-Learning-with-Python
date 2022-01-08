@@ -2,6 +2,7 @@
 Machine Learning by, www.youtube.com/StudyMart
 
 Kind Regards,
-Rashedul Alam Shakil ; 
+Rashedul Alam Shakil 
+M.Sc. in Data Science at FAU Germany ;
 B.Sc. Computer Science and Engineering ; 
-Founder, study mart & aiQuest.org ; 
+Founder, study mart & www.aiquest.org ; 
