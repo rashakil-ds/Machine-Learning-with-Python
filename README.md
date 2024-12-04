@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Machine Learning with Python by Study Mart & aiQuest Intelligence</title>
-</head>
 <body>
   <h1>Machine Learning with Python by Study Mart & aiQuest Intelligence</h1>
   <p>Welcome to the <strong>Machine Learning with Python</strong> repository! This repository contains resources and materials to help you learn and master machine learning using Python. Curated by Study Mart and aiQuest Intelligence, these resources are perfect for both beginners and advanced learners.</p>
